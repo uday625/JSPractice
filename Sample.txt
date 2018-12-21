@@ -10,3 +10,9 @@ All the colors
 
 /** Added in ES6 **/
 Arrow Function
+
+
+
+
+/** Added in ES7 **/
+Promise
