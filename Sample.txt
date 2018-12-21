@@ -7,6 +7,8 @@ Red
 White
 All the colors
 
+New changes to the master branch 
+
 
 /** Added in ES6 **/
 Arrow Function
