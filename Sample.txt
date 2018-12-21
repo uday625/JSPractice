@@ -6,3 +6,7 @@ Green
 Red
 White
 All the colors
+
+
+/** Added in ES6 **/
+Arrow Function
