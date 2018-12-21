@@ -1,0 +1,23 @@
+Orange
+Yellow
+Blue
+Black
+Green
+Red
+White
+All the colors
+
+New changes to the master branch 
+
+
+/** Added in ES6 **/
+Arrow Function
+
+
+/** Added in ES7 **/
+Promise
+
+
+/** Added in the forked code **/
+Callback Hell
+New proposed changes 
